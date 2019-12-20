@@ -1,0 +1,4 @@
+# Default ignored files
+#/workspace.xml
+/demo-maven/demo-maven.iml
+/demo-maven/.idea/
